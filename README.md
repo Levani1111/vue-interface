@@ -1,14 +1,14 @@
 # vue-interface
-This is an appointment booking and management system with features for searching and sorting.
+This is an appointment app booking and management system with features for searching and sorting.
 
 ### Using objectives
-use Vue.js
-Installing custom modules
-Loading modules
-Importing and looping through data
-Using props, methods, and events
-Indexing, editing, adding, and deleting records
-Searching and filtering
+* use Vue.js
+* Installing custom modules
+* Loading modules
+* Importing and looping through data
+* Using props, methods, and events
+* Indexing, editing, adding, and deleting records
+* Searching and filtering
 
 ### Technologies
 * Vue.js
