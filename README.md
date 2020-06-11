@@ -41,5 +41,8 @@ npm run lint
 ##### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+##### Deployment
+https://appointment-with-vue.netlify.app/
+
 ---
 ###### Created by Levani Papashvili @2020
